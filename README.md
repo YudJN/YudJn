@@ -1,4 +1,4 @@
-### Eae My name is Jean and this is my biography 👨‍💻 
+### Eae My name is Jean and this is my biography 💻 
 
 - Cursando Analise De Desenvolvimento De Sistemas 
 
