@@ -1,16 +1,14 @@
-### Hi there 👋
+### Eae My name is Jean 👨‍💻 
 
-<!--
-**YudJN/YudJn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Cursando Analise De Desenvolvimento De Sistemas 
 
-Here are some ideas to get you started:
+#### linguagens 
+<div style="display: inline_block">
+  <img align="center" alt="Gab-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+          
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Redes Sociais 👋🏻 
+<div> 
+  <a href="https://www.instagram.com/jean_nack/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
