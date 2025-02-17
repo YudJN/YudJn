@@ -1,7 +1,7 @@
 ### Eae My name is Jean and this is my biography 💻 
 
-- Técnico em analise De Desenvolvimento De Sistemas
-- Cursando engenharia de software
+- Técnico em Analise De Desenvolvimento De Sistemas
+- Cursando Engenharia de Software
 
 #### linguagens 
 <div style="display: inline_block">
