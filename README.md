@@ -32,7 +32,7 @@
 
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.instagram.com/jean.nack/">
+  <a href="https://www.instagram.com/jean_nack/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:jeannackoliver@gmail.com">
