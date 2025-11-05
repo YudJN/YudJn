@@ -19,6 +19,7 @@
 <h3 align="center">🧠 Technical Skills</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/GO-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,4 +40,6 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:f0f9ff,50:0284c7,100:0ea5e9&section=footer" width="100%" />
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
